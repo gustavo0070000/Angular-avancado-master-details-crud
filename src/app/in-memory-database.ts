@@ -1,3 +1,5 @@
+//caso esteja usando backend externo, apagar esse arquivo
+
 import { InMemoryDbService } from 'angular-in-memory-web-api';
 
 import { Category } from './pages/categories/shared/category.model';
